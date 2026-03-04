@@ -1,0 +1,1 @@
+This app uses AI to make light, experimental forecasts of currency movements and is not intended for actual trading purposes. Please be aware that any trades you make based on this app are done at your own risk, and we cannot be held responsible for any losses incurred.
